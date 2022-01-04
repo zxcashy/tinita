@@ -1,0 +1,177 @@
+*{
+    max-width:1920px;;
+    max-height:1080px;
+}
+.ul1{
+    list-style-type: none;
+    
+ 
+}
+li{
+    display: inline;
+    padding: 8px 16px;
+    text-decoration: none;
+font-family: Bw Modelica Cyrillic DEMO;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+
+
+
+
+color: #535353;
+}
+.perez{
+    float: right;
+padding-right: 30px;
+
+
+
+
+font-family: Bw Modelica Cyrillic DEMO;
+font-style: normal;
+
+font-size: 15px;
+line-height: 13px;
+
+
+
+color: #497952;
+}
+.img{
+    float: right;
+}
+.img1{
+    float:left;
+    padding:25px;
+    margin:15px;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+    
+}
+.img2{
+float: left;
+padding:25px;
+        margin:15px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+}
+.adres1{
+  
+
+padding-right: 120px;
+font-family: Bw Modelica Cyrillic DEMO;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+float: right;
+
+}
+.adres2{
+
+
+    font-family: Bw Modelica Cyrillic DEMO;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    padding-left: 30px;
+}
+.img3{
+    float: left;
+    padding:25px;
+            margin:15px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+}
+.ras1{
+    float: right;
+    padding-right: 200px;
+    font-family: Bw Modelica Cyrillic DEMO;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    padding-left: 30px;
+}
+.ras2{
+
+    
+    font-family: Bw Modelica Cyrillic DEMO;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    padding-left: 40px;
+}
+.img4{
+    float: right;
+    padding:25px;
+            margin:15px;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%; 
+}
+.number1{
+    font-family: Bw Modelica Cyrillic DEMO;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    padding-left: 40px;
+}
+.number2{
+    font-family: Bw Modelica Cyrillic DEMO;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    padding-left: 40px;  
+}
+.img5{
+    float: right;
+}
+.ul2{
+    position: absolute;
+    width: 1200px;
+    height: 40px;
+    left: 0px;
+    top: 200px;
+    background: #497952;
+    color: white;
+}
+.poisk{
+    position: absolute;
+    width: 1200px;
+    height: 40px;
+    left: 0px;
+    top: 260px;
+    padding-left: 25px;
+}
+.ptxt{
+    position: absolute;
+width: 37px;
+height: 13px;
+left: 45px;
+top: 9px;
+
+font-family: Bw Modelica Cyrillic DEMO;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 13px;
+display: flex;
+align-items: center;
+text-align: center;
+padding-left: 30px;
+color: #ABAAAA;
+}
+.bigimg{    
+align-content: center;
+}
+.inf{
+             
+}
